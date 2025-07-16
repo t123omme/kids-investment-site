@@ -68,4 +68,3 @@ export default function KidInvestmentCalculator() {
       </Card>
     </div>
   );
-}
